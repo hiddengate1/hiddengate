@@ -48,7 +48,7 @@ jobs:
           PLUGIN_PASSWORD: ${{ secrets.PLUGIN_PASSWORD }}
         run: |
           cd $GITHUB_WORKSPACE/src
-          java -jar source-secure.jar decryptSource $SOURCE_PASSWORD
+          java -jar source-secure.jar decryptSource $SOURCE_PASSWORD source-secure.json
 
       - name: Build Plugins
         run: |
