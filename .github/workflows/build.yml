@@ -45,7 +45,6 @@ jobs:
       - name: Decrypt source
         env:
           SOURCE_PASSWORD: ${{ secrets.SOURCE_PASSWORD }}
-          PLUGIN_PASSWORD: ${{ secrets.PLUGIN_PASSWORD }}
         run: |
           cd $GITHUB_WORKSPACE/src
           java -jar source-secure.jar decryptSource $SOURCE_PASSWORD source-secure.json
@@ -59,6 +58,8 @@ jobs:
           cp build/plugins.json $GITHUB_WORKSPACE/builds
 
       - name: Encrypt plugins
+        env:
+          PLUGIN_PASSWORD: ${{ secrets.PLUGIN_PASSWORD }}
         run: |
           cd $GITHUB_WORKSPACE/builds
           java -jar source-secure.jar encryptPlugin $PLUGIN_PASSWORD
