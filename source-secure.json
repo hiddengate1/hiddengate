@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "original": "SubNhanh/src/main/kotlin/com/hiddengate1/SnProvider.kt",
+      "encrypted": "SubNhanh/src/main/kotlin/com/hiddengate1/SnProvider.kt.enc"
+    },
+    {
+      "original": "TvHay/src/main/kotlin/com/hiddengate1/TvHayProvider.kt",
+      "encrypted": "TvHay/src/main/kotlin/com/hiddengate1/TvHayProvider.kt.enc"
+    },
+    {
+      "original": "OPhim/src/main/kotlin/com/hiddengate1/OPhim.kt",
+      "encrypted": "OPhim/src/main/kotlin/com/hiddengate1/OPhim.kt.enc"
+    },
+    {
+      "original": "OPhim/src/main/kotlin/com/hiddengate1/OPhimInterceptor.kt",
+      "encrypted": "OPhim/src/main/kotlin/com/hiddengate1/OPhimInterceptor.kt.enc"
+    }
+  ]
+}
