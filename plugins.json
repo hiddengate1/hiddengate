@@ -1,0 +1,95 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hiddengate1/hiddengate",
+        "fileSize": 18097,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "hiddengate1"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HD",
+        "url": "https://raw.githubusercontent.com/hiddengate1/hiddengate/builds/HD.cs3",
+        "name": "HD"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hiddengate1/hiddengate",
+        "fileSize": 15592,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "hiddengate1"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MC",
+        "url": "https://raw.githubusercontent.com/hiddengate1/hiddengate/builds/MC.cs3",
+        "name": "MC"
+    },
+    {
+        "iconUrl": "https://ophim.xyz/themes/bptv/images/ophim.png?v=1.0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hiddengate1/hiddengate",
+        "fileSize": 24158,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "hiddengate1"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "OPhim",
+        "url": "https://raw.githubusercontent.com/hiddengate1/hiddengate/builds/OPhim.cs3",
+        "name": "OPhim"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.vip&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hiddengate1/hiddengate",
+        "fileSize": 29436,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "hiddengate1"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SubNhanh",
+        "url": "https://raw.githubusercontent.com/hiddengate1/hiddengate/builds/SubNhanh.cs3",
+        "name": "SubNhanh"
+    },
+    {
+        "iconUrl": "https://tvhayu.org/favicon.ico?v1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hiddengate1/hiddengate",
+        "fileSize": 14826,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "hiddengate1"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "TvHay",
+        "url": "https://raw.githubusercontent.com/hiddengate1/hiddengate/builds/TvHay.cs3",
+        "name": "TvHay"
+    }
+]
