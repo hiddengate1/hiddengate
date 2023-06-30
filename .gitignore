@@ -14,3 +14,4 @@ local.properties
 /TvHay/src/main/kotlin/com/hiddengate1/TvHayProvider.kt
 /OPhim/src/main/kotlin/com/hiddengate1/OPhim.kt
 /OPhim/src/main/kotlin/com/hiddengate1/OPhimInterceptor.kt
+/HD/src/main/kotlin/com/hiddengate1/hd/HD.kt

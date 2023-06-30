@@ -15,6 +15,10 @@
     {
       "original": "OPhim/src/main/kotlin/com/hiddengate1/OPhimInterceptor.kt",
       "encrypted": "OPhim/src/main/kotlin/com/hiddengate1/OPhimInterceptor.kt.enc"
+    },
+    {
+      "original": "HD/src/main/kotlin/com/hiddengate1/hd/HD.kt",
+      "encrypted": "HD/src/main/kotlin/com/hiddengate1/hd/HD.kt.enc"
     }
   ]
 }
