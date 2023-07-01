@@ -81,6 +81,7 @@ subprojects {
         implementation("org.jsoup:jsoup:1.15.3") // html parser
         implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.13.1")
         implementation("org.mozilla:rhino:1.7.14") //run JS
+        implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     }
 }
 
