@@ -15,3 +15,5 @@ local.properties
 /OPhim/src/main/kotlin/com/hiddengate1/OPhim.kt
 /OPhim/src/main/kotlin/com/hiddengate1/OPhimInterceptor.kt
 /HD/src/main/kotlin/com/hiddengate1/hd/HD.kt
+/MC/src/main/kotlin/com/hiddengate1/mc/MC.kt
+/MC/src/main/kotlin/com/hiddengate1/mc/utils/OpenSslAes.kt
