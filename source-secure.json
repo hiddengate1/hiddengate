@@ -9,6 +9,10 @@
       "encrypted": "TvHay/src/main/kotlin/com/hiddengate1/TvHayProvider.kt.enc"
     },
     {
+      "original": "TvHay/src/main/kotlin/com/hiddengate1/TvHayExtractor.kt",
+      "encrypted": "TvHay/src/main/kotlin/com/hiddengate1/TvHayExtractor.kt.enc"
+    },
+    {
       "original": "OPhim/src/main/kotlin/com/hiddengate1/OPhim.kt",
       "encrypted": "OPhim/src/main/kotlin/com/hiddengate1/OPhim.kt.enc"
     },
