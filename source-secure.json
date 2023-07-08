@@ -5,6 +5,14 @@
       "encrypted": "SubNhanh/src/main/kotlin/com/hiddengate1/SnProvider.kt.enc"
     },
     {
+      "original": "SubNhanh/src/main/kotlin/com/hiddengate1/SnExtractor.kt",
+      "encrypted": "SubNhanh/src/main/kotlin/com/hiddengate1/SnExtractor.kt.enc"
+    },
+    {
+      "original": "SubNhanh/src/main/kotlin/com/hiddengate1/SnInterceptor.kt",
+      "encrypted": "SubNhanh/src/main/kotlin/com/hiddengate1/SnInterceptor.kt.enc"
+    },
+    {
       "original": "TvHay/src/main/kotlin/com/hiddengate1/TvHayProvider.kt",
       "encrypted": "TvHay/src/main/kotlin/com/hiddengate1/TvHayProvider.kt.enc"
     },
