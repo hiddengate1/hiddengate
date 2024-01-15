@@ -13,10 +13,9 @@ local.properties
 /SubNhanh/src/main/kotlin/com/hiddengate1/SnProvider.kt
 /SubNhanh/src/main/kotlin/com/hiddengate1/SnExtractor.kt
 /SubNhanh/src/main/kotlin/com/hiddengate1/SnInterceptor.kt
-/TvHay/src/main/kotlin/com/hiddengate1/TvHayProvider.kt
-/TvHay/src/main/kotlin/com/hiddengate1/TvHayExtractor.kt
+/OPhim/src/main/kotlin/com/hiddengate1/data/danhsach/DanhSachResponse.kt
+/OPhim/src/main/kotlin/com/hiddengate1/data/phim/PhimResponse.kt
 /OPhim/src/main/kotlin/com/hiddengate1/OPhim.kt
 /OPhim/src/main/kotlin/com/hiddengate1/OPhimInterceptor.kt
-/HD/src/main/kotlin/com/hiddengate1/hd/HD.kt
 /MC/src/main/kotlin/com/hiddengate1/mc/MC.kt
 /MC/src/main/kotlin/com/hiddengate1/mc/utils/OpenSslAes.kt

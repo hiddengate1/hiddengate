@@ -13,6 +13,14 @@
       "encrypted": "SubNhanh/src/main/kotlin/com/hiddengate1/SnInterceptor.kt.enc"
     },
     {
+      "original": "OPhim/src/main/kotlin/com/hiddengate1/data/danhsach/DanhSachResponse.kt",
+      "encrypted": "OPhim/src/main/kotlin/com/hiddengate1/data/danhsach/DanhSachResponse.kt.enc"
+    },
+    {
+      "original": "OPhim/src/main/kotlin/com/hiddengate1/data/phim/PhimResponse.kt",
+      "encrypted": "OPhim/src/main/kotlin/com/hiddengate1/data/phim/PhimResponse.kt.enc"
+    },
+    {
       "original": "OPhim/src/main/kotlin/com/hiddengate1/OPhim.kt",
       "encrypted": "OPhim/src/main/kotlin/com/hiddengate1/OPhim.kt.enc"
     },
