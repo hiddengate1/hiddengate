@@ -1,12 +1,9 @@
 // use an integer for version numbers
-version = 1
+version = 2
 
 
 cloudstream {
     language = "vi"
-    // All of these properties are optional, you can safely remove them
-
-    // description = "Lorem Ipsum"
     authors = listOf("hiddengate1")
 
     /**
@@ -16,8 +13,8 @@ cloudstream {
      * 2: Slow
      * 3: Beta only
      * */
-    status = 1 // will be 3 if unspecified
+    status = 1
     tvTypes = listOf("TvSeries", "Movie",)
 
-    iconUrl = "https://ophim.xyz/themes/bptv/images/ophim.png?v=1.0"
+    iconUrl = "https://ophim10.cc/logo-ophim-6.png"
 }
