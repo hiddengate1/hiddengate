@@ -81,7 +81,7 @@ subprojects {
         implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.16.1")
         implementation("org.mozilla:rhino:1.7.14") //run JS
         implementation("com.squareup.retrofit2:converter-gson:2.9.0")
-        implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.0-RC2")
+        implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.0")
     }
 }
 
