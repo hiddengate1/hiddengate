@@ -56,12 +56,12 @@ jobs:
           cp **/build/*.cs3 $GITHUB_WORKSPACE/builds
           cp build/plugins.json $GITHUB_WORKSPACE/builds
 
-      - name: Encrypt plugins
-        env:
-          PLUGIN_PASSWORD: ${{ secrets.PLUGIN_PASSWORD }}
-        run: |
-          cd $GITHUB_WORKSPACE/builds
-          java -jar source-secure.jar encryptPlugin $PLUGIN_PASSWORD
+#      - name: Encrypt plugins
+#        env:
+#          PLUGIN_PASSWORD: ${{ secrets.PLUGIN_PASSWORD }}
+#        run: |
+#          cd $GITHUB_WORKSPACE/builds
+#          java -jar source-secure.jar encryptPlugin $PLUGIN_PASSWORD
 
       - name: Push builds
         run: |
